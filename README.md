@@ -1,1 +1,1 @@
-# microsslinks-ai-workshop
+# Microsslinks AIWorkshop
